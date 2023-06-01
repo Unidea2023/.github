@@ -21,8 +21,30 @@ Lo que deberiamos cumplir
 - Tambien tenemos que pensar para quien
 - Si somos usuarios, tenemos que pensar que podriamos mejorar
 - App para registrar el uso de una sala
--Dispositivos instrumentos 
+- Dispositivos instrumentos 
 
-Posible idea mal implementada
+Ideas surgidas en el buffet
 
-MIRA , CUANDO ESTABAMOS VINIENDO, ESTABAMOS VIENDO LAS ESCALERAS QUE ERAN O MUY GRANDES O LAS RAMBAS ERAN MUY INCLINADAS. PODEMOS MIRAR LAS RAMBLAS EN TODO EL CAMPUS Y MIRAR EN QUE CONDICION ESTAN PARAR PODER CHUSMEARLAS ANTES DE LLEGAR A ESE LUGAR, POR EJEMPLO, TENER MARCADAS TODAS LAS ESCALERAS DE LA FACU
+### Robos
+
+El problema de esto es que tenemos que usar demasiados sensores o aparatos para cada bicicleta. 
+
+### Comida/Alimentacion (Problema de variedad de comida)
+
+Esos es un factor de la facultad, tipo, no es algo que podamos mejorar directamente como estudiantes
+
+### La energia (Calefaccion de las aulas)
+
+Aca el problema es que tenemos que meter censores de temperatura en cada ventana y tambien tener que volver mecanica cada ventana (No es rentable en poco tiempo)
+
+### La mobilidad (En cuanto a traslados)
+
+La idea a mi me gusta pero no tengo ni idea en manejar los mapas de google, para editarlos. Para el proximo evento voy a tratar de aprender
+
+### Accesibilidad (En cuanto a formas incompletas, como calles)
+
+En esta no se me ocurre nada funcional
+
+### Residuos
+
+Aca esta la idea de Romina, pero depende mucho de las maquinas, tipo, si quisieramos implementarlo, tenemos que tener una maquina para detectar peso, tambien un servidor siempre activo para poder hacer la suma del dinero/creditos para la facultad (Seria demasiado hackeable y no me fio mucho)
