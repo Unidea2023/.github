@@ -3,7 +3,14 @@
 - Color : Naranja 
 - Nombre asociado : Orange Connections
 
+
+
+
+ 
+
 ## Ideas que surgieron de la clase
+
+<p><img width="250" align='right' src="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/c71f1cd2-2c88-4333-aec9-7bcb4e35bd70"></p>
 
 - Bienestar universistario
 - Alimentacion
@@ -24,6 +31,8 @@ Lo que deberiamos cumplir
 - Dispositivos instrumentos 
 
 Ideas surgidas en el buffet
+
+
 
 ### Robos
 
